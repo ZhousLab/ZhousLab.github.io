@@ -53,3 +53,17 @@ header {
     padding: 15;
     width: 30%;
   }
+
+  div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  li {
+    padding: 5;
+    font-size: 20px;
+  }
