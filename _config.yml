@@ -1,2 +1,5 @@
 theme: minima
 title: Zhou Fang's homepage
+header_pages:
+  - CV.md
+  - Research.md
