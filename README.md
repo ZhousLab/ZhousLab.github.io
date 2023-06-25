@@ -6,8 +6,9 @@ Hi, I'm Zhou, currently a **PhD student** in National University of Singapore, m
 
 <p align="center" width="100%">
     <img title="aboutme" alt="A pic of me" src="/figs/aboutme.jpg" width="50%"> 
-    THIS IS ME!
 </p>
+
+<p style="text-align: center;">Fig 1: THIS IS ME!</p>
 
 
 
