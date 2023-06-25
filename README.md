@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Hi, I'm Zhou, currently a **PhD student** in National University of Singapore **(NUS)**, major in mechanical engineering. 
 
 <p align="center" width="50%">
