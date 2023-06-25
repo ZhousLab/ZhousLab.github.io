@@ -1,7 +1,4 @@
----
-layout: post
----
-
+# An SPOD tutorial for newcomers
 Spectral proper orthogonal decomposition is a mode decomposition method powerful in analysing underlying physics/coherent structures of a complex system. However, compared to POD (also known as PCA or EOF in other fields), the useage of SPOD is mostly comfined in fluid mechanics. This post aims to introduce the principle of SPOD in plain language to newcomers and provides some useful resources to hands-on.
 ## Plain language introduction
 
