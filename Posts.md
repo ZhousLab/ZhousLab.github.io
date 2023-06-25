@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /_posts/
+permalink: /posts/
 ---
 ## Tutorials
-- [An SPOD tutorial for newcomers](SPOD_tutorial.md)
+- [An SPOD tutorial for newcomers](spod)
