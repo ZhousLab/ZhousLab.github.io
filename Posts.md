@@ -4,4 +4,4 @@ title: Posts
 permalink: /posts/
 ---
 ## Tutorials
-- [An SPOD tutorial for newcomers](_posts/SPOD_tutorial.md)
+- [An SPOD tutorial for newcomers](posts/SPOD_tutorial.md)
