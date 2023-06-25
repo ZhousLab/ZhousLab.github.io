@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhou Fang
+title: CV
 permalink: /cv/
 ---
 
