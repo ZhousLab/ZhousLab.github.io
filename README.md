@@ -4,7 +4,11 @@
 
 Hi, I'm Zhou, currently a **PhD student** in National University of Singapore, major in mechanical engineering. THIS IS ME!
 
-<img title="aboutme" alt="A pic of me" src="/figs/aboutme.jpg" width="200">
+<p align="center" width="100%">
+    <img title="aboutme" alt="A pic of me" src="/figs/aboutme.jpg" width="50%"> 
+</p>
+
+
 
 I have a background in **CFD** and **mode decomposition methods**.
 
