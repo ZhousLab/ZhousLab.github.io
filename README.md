@@ -2,7 +2,7 @@
 
 |Home|CV|Research|About me|Group|
 
-Hi, I'm Zhou, currently a **PhD student** in National University of Singapore, major in mechanical engineering. THIS IS ME!
+Hi, I'm Zhou, currently a **PhD student** in National University of Singapore, major in mechanical engineering. 
 
 <p align="center" width="100%">
     <img title="aboutme" alt="A pic of me" src="/figs/aboutme.jpg" width="50%"> 
