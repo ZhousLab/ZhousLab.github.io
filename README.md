@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 Hi, I'm Zhou, currently a **PhD student** in National University of Singapore **(NUS)**, major in mechanical engineering. 
 
 <p align="center" width="50%">
