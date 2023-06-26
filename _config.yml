@@ -4,6 +4,9 @@ header_pages:
   - CV.md
   - Research.md
   - Posts.md
+author:
+  name: Contact me  at
+  email: e1100037@u.nus.edu
   
 minima:
   social_links:
