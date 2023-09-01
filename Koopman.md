@@ -9,13 +9,12 @@ Linearity is a desireable prpoperty in many problems. Linearization near a fixed
 
 Under some constrains, **Koopman decomposition** is closely related with and approxiamted by **DMD** and **DFT**.
 ## 2. What is a Koopman operator
-Koopman operator is an infinite-dimension linear system that advances **ANY** observation $g(x)$ one time step forward, e.g. $`g(x) = x`$ if use the measured observable directly. It's a Markov operator.
+Koopman operator is an infinite-dimension linear system that advances **ANY** observation $g(x)$ one time step forward, e.g. $g(x) = x$ if use the measured observable directly. It's a Markov operator.
 
-```math
-\kappa_t g = g \circ F_t
-```
+$$\kappa_t g = g \circ F_t$$
 
-Where $`\kappa_t`$ is our Koopman operator, and $F_t$ is the forward operator.
+
+Where $\kappa_t$ is our Koopman operator, and $F_t$ is the forward operator.
 
 ---
 
