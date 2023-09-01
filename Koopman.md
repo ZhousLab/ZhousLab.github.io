@@ -11,7 +11,7 @@ Under some constrains, **Koopman decomposition** is closely related with and app
 ## 2. What is a Koopman operator
 Koopman operator is an infinite-dimension linear system that advances **ANY** observation $g(x)$ one time step forward, e.g. $g(x) = x$ if use the measured observable directly. It's a Markov operator.
 
-$\kappa_t g = g \circ F_t$
+$$\kappa_t g = g \circ F_t$$
 
 Where $\kappa_t$ is our Koopman operator, and $F_t$ is the forward operator.
 
@@ -19,11 +19,11 @@ Where $\kappa_t$ is our Koopman operator, and $F_t$ is the forward operator.
 
 For a **discrete-time system** with timestep $\Delta t$, it can be write as
 
-$\kappa_t g(x_k) = g(F_t(x_k)) = g(x_{k+1})$
+$$\kappa_t g(x_k) = g(F_t(x_k)) = g(x_{k+1})$$
 
 For **continous system**, we have:
 
-$\frac{d}{dt}g = \kappa g $
+$$\frac{d}{dt}g=\kappa g$$
 
 Operator $\kappa$ can be understand from the definition of differential, and linked with Koopman operator $\kappa_t$ by
 
