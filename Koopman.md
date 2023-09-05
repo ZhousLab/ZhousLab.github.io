@@ -39,7 +39,7 @@ $$\frac{d}{dt}g=\kappa g$$
 
 Operator $\kappa$ can be understand from the definition of differential, and linked with Koopman operator $\kappa_t$ by
 
-$\frac{d}{dt}g = \lim_{t \to 0} \frac{g(x_{k+1}-g{x_k})}{t} = \frac{\kappa_t g-g}{t} = \kappa g$
+$$\frac{d}{dt}g = \lim_{t \to 0} \frac{g(x_{k+1}-g{x_k})}{t} = \frac{\kappa_t g-g}{t} = \kappa g$$
 
 The third term is a function of $g$ and can be denoted as $\kappa g$
 
