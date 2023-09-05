@@ -19,9 +19,9 @@ The table below is adpated from
 [ Global Observing Systems Information Center (GOSIC)](https://public.wmo.int/en/programmes/global-climate-observing-system/essential-climate-variables)
 and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 ## Atmosphere variables
+
 |Variable   |Unit   |   Meaning|
 |:-------- | ------- |:-------|
-
 |**Flow properties**|
 |Temperature|K| Hot or cold|
 |Mean sea level pressure/ Surface pressure| Pa| Pressure|
@@ -33,10 +33,11 @@ and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp
 |Specific humidity| kg/kg | The mass of water vapour per kilogram of moist air| 
 |Total column water vapour| $kg \ m^{-2}$ |total amount of water vapour|
 |Total column water| $kg \ m^{-2}$ |total amount of water vapour, liquid water, cloud ice, rain and snow in a column|
+
 ## Land variables
+
 |Variable   |Unit   |   Meaning|
 |:-------- | ------- |:-------|
-
 |**Water cycle**|
 |Mean evaporation rate| $kg \ m^{-2} \ s^{-1}$ | Amount of water evaporated from the Earth's surface into the air|
 |Vegetation|/| TBC|
@@ -45,10 +46,9 @@ and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp
 |Temperature|/| TBC|
 |Ice/Glaciers|/| Latent heat, TBC|
 
-
 ## Ocean variables
-|Variable   |Unit   |   Meaning|
 
+|Variable   |Unit   |   Meaning|
 |:-------- | ------- |:-------|
 |Ocean energy flux|/|TBC|
 |Sea Surface Temperature| k| Temperature|
