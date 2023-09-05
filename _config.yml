@@ -7,6 +7,8 @@ header_pages:
 author:
   name: Contact me at
   email: fangzhou2019@outlook.com
+
+markdown: kramdown
   
 minima:
   social_links:
