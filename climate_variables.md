@@ -21,6 +21,7 @@ and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp
 ## Atmosphere variables
 |Variable   |Unit   |   Meaning|
 |:-------- | ------- |:-------|
+
 |**Flow properties**|
 |Temperature|K| Hot or cold|
 |Mean sea level pressure/ Surface pressure| Pa| Pressure|
@@ -35,6 +36,7 @@ and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp
 ## Land variables
 |Variable   |Unit   |   Meaning|
 |:-------- | ------- |:-------|
+
 |**Water cycle**|
 |Mean evaporation rate| $kg \ m^{-2} \ s^{-1}$ | Amount of water evaporated from the Earth's surface into the air|
 |Vegetation|/| TBC|
@@ -46,6 +48,7 @@ and [climate data store documantation.](https://cds.climate.copernicus.eu/cdsapp
 
 ## Ocean variables
 |Variable   |Unit   |   Meaning|
+
 |:-------- | ------- |:-------|
 |Ocean energy flux|/|TBC|
 |Sea Surface Temperature| k| Temperature|
