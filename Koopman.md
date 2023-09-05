@@ -3,6 +3,17 @@ layout: page
 title: Koopman operator:why, what and how
 permalink: posts/koopman/
 ---
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
 ## 1. Why we need Koopman operator
 Linearity is a desireable prpoperty in many problems. Linearization near a fixed point of a nonlinear system provides a **local** linearization expression, while Koopman operator provides a **global** linearization expression of the system using higher(infinite) number of dimansional nonlinear coordinates.
