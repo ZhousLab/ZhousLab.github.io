@@ -1,4 +1,4 @@
-This post is an archieve for machine learning project structure for effectively organize an clean and colaborateable project.
+This post is an archieve for machine learning project structure for effectively organize an clean and colaborateable project. [Source](https://medium.com/@l.charteros/scalable-project-structure-for-machine-learning-projects-with-pytorch-and-pytorch-lightning-d5f1408d203e)
 ```
 .
 ├── .data
@@ -25,9 +25,6 @@ This post is an archieve for machine learning project structure for effectively 
         │   |   ├── datamodule.py
         │   |   └── dataset.py
         |   └── ...
-        |
-        ├── engines
-        │   └── system.py
         |
         ├── models
         │   ├── model1.py
