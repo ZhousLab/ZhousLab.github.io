@@ -15,3 +15,7 @@ This post archives useful and interesting blogs and webpage.
 ### Modal decomposition
 
 ## Climate indices
+
+## CFD
+### Tools
+[Install Nektar++ for Ubuntu](https://www.nektar.info/getting-started/installation/), it works well for my focal(20.04).
