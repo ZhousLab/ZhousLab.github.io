@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Archives
+permalink: /blog_archive/
 ---
 
 This post archives useful and interesting blogs and webpage. 
