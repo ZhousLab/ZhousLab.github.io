@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-permalink: /blog_archive/
+permalink: post/blog_archive/
 ---
 
 This post archives useful and interesting blogs and webpage. 
