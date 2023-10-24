@@ -7,12 +7,12 @@ permalink: posts/mpi_install/
 2. Create a clean environmemt, python version 3.9.16 and 3.11.4 work for me
 3. `conda install -c conda-forge mpi4py`
 4. Test your MPI and mpi4py use script:
+```
+import mpi4py
+from mpi4py import MPI
 
-  import mpi4py
-  from mpi4py import MPI
-
-  comm = MPI.COMM_WORLD
-  rank = comm.Get_rank()
-  print('My rank is ',rank)
-
+comm = MPI.COMM_WORLD
+rank = comm.Get_rank()
+print('My rank is ',rank)
+```
 In command line use `mpirun -n 4 python name_of_your_script.py`
