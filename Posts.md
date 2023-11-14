@@ -12,4 +12,4 @@ permalink: /posts/
 - [Webpages and blogs](blog_archive)
 
 ## Technique problems 
-- [Technique issues I've met](_posts/technique_issue.md)
+- [Technique issues I've met](_posts/technique)
