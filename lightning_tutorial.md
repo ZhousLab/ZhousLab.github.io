@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Lightning: module and data_module is all you need
+title: Lightning
 permalink: posts/lightning/
 ---
+
 
 ## Lightning: module and data_module is all you need
 To start a ML task with lightning and without complex training settings, you only need:
