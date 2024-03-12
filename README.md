@@ -9,7 +9,7 @@ Hi, I'm Zhou, currently a **PhD student** in National University of Singapore **
 <p align="center">Fig 1: THIS IS ME!</p>
 
 
-- I'm interested in **dynamical system theory, reduced-order modeling and scientific machine learning**.
+- I'm interested in **dynamical system modeling and scientific machine learning**. Now I'm intensively working on **AI for weather**.
 - I have a background in **CFD** and **mode decomposition methods**.
 
 
